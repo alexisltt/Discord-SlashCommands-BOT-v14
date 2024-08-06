@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  },
+  "name": "Discord bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping.js"
+  },
+  "author": "AlexisLtt",
+  "license": "ISC",
+  "description": ""
+}
